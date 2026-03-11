@@ -1,0 +1,10 @@
+variables
+  i: numero
+comenzar
+  i := 1
+  mientras (i <= 5)
+  comenzar
+    informar(i)
+    i := i + 1
+  fin
+fin
